@@ -1,4 +1,4 @@
-<img src="Profile.png" align="right"/>
+<img src="Profile.jpg" align="right"/>
 
 # About Me
 
