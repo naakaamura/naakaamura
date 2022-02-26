@@ -38,8 +38,8 @@
   
   ### Dead
 
-  <img src="https://github-readme-stats.vercel.app/api?username=naakaamura&show_icons=true&title_color=ababab&text_color=ababab&bg_color=171717&icon_color=ababab">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naakaamura&title_color=ababab&text_color=ababab&bg_color=171717&icon_color=ababab">
+  <img src="https://github-readme-stats.vercel.app/api?username=naakaamura&show_icons=true&title_color=adbac7&text_color=adbac7&bg_color=22272e&icon_color=adbac7">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naakaamura&title_color=adbac7&text_color=adbac7&bg_color=22272e&icon_color=adbac7">
   
   ---
 
