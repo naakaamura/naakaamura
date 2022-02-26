@@ -28,16 +28,25 @@
   ---
 
   ## 📒 Stats Overview 📒
-
   
+  ### Dead
+
+  <img src="https://github-readme-stats.vercel.app/api?username=naakaamura&show_icons=true&title_color=ababab&text_color=ababab&bg_color=171717&icon_color=ababab">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naakaamura&title_color=ababab&text_color=ababab&bg_color=171717&icon_color=ababab">
   
   ---
 
   ## 🌟 Social Media 🌟
 
+  ### Main Contact
+  
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="@vnaka#1282">
+  
   <a href="https://www.instagram.com/vnaakaa">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  
+  ### Other
   
   <a href="https://twitter.com/__vnaka">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -50,8 +59,6 @@
   <a href="https://www.youtube.com/channel/UCPn9G_D7O8d1o9IFU5Ji8qg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="@vnaka#1282">
   
   ---
 </div>
