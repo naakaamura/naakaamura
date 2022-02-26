@@ -2,6 +2,8 @@
 
 # About Me
 
+---
+
 ## 💬 General Description 
 
 Swag
