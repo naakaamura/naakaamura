@@ -6,7 +6,7 @@
   
   ## ☠️ Quick Description ☠️
 
-  <b>High School Student, 14, fair experience with C#, and minimal experience with C and C++.<b/>    
+  <b>High school student, 14, fair experience with C#, and minimal experience with C and C++.<b/>    
   <b>I work with all kinds of random stuff, check some of it below:<b/>
   
   ---
