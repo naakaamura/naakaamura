@@ -48,7 +48,9 @@
   ### Main Contact
   
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="@vnaka#1282">
-  
+    
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="+55 12 992295922">
+    
   <a href="https://www.instagram.com/vnaakaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
