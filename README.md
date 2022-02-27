@@ -13,7 +13,7 @@
   
   ## 💻 Workspace Enviroment 💻
   
-  ### Languages
+  ### Languages / Frameworks
   
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -49,22 +49,26 @@
   
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="@vnaka#1282">
   
-  <a href="https://www.instagram.com/vnaakaa">
+  <a href="https://www.instagram.com/vnaakaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
   ### Other
   
-  <a href="https://twitter.com/__vnaka">
+  <a href="https://twitter.com/__vnaka" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   
-  <a href="https://open.spotify.com/user/r8muyg7hfokunrtobky68h9c4">
+  <a href="https://open.spotify.com/user/r8muyg7hfokunrtobky68h9c4" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   </a>
   
-  <a href="https://www.youtube.com/channel/UCPn9G_D7O8d1o9IFU5Ji8qg">
+  <a href="https://www.youtube.com/channel/UCPn9G_D7O8d1o9IFU5Ji8qg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+    
+  <a href="https://www.github.com/naakaamura" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   
   ---
