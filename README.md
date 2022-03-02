@@ -68,10 +68,6 @@
   <a href="https://www.youtube.com/channel/UCPn9G_D7O8d1o9IFU5Ji8qg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-    
-  <a href="https://www.github.com/naakaamura" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
   
   ---
   
