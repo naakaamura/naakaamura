@@ -51,7 +51,7 @@
     
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="+55 12 992295922">
     
-  <a href="https://www.instagram.com/vnaakaa" target="_blank">
+  <a href="https://www.instagram.com/jv.naka" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
