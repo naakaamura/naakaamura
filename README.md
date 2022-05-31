@@ -1,4 +1,4 @@
-# 🏌 About Me 🤸‍♂️ <image src="Profile.jpeg" align="right">
+# 🏌 About Me 🤸‍♂️ <image src="Profile.png" align="right">
 
 ### 📒 Overview 📒
 
