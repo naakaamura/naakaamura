@@ -2,7 +2,7 @@
 
 ## 📒 Overview 📒
   
-<b>High school student, 15. Fair experience with C#, .NET and XNA. Minimal experience with C and C++.<b/> 
+<b>High school student, 15. Fair experience with C#, .NET and XNA/FNA. Minimal experience with C and C++.<b/> 
 
 ## 💻 Workspace 💻
 
