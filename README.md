@@ -1,6 +1,6 @@
 ## 🏌 About Me 🤸‍♂️ <image src="https://avatars.githubusercontent.com/naakaamura" align="right" width="160px" height="160px">
 
-Currently a high school student, just an ordinary teenager and 14 years old
+Currently a high school student, just a 14 years old ordinary teenager.
   
 I have experience with C# and enjoy modding Terraria, that's pretty much it. Ocasionally though I'll be working on a few other random projects every once in a while.
 
