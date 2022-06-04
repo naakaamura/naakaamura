@@ -1,25 +1,9 @@
-# 🏌 About Me 🤸‍♂️ <image src="https://avatars.githubusercontent.com/naakaamura" align="right" width="160px" height="160px">
+## 🏌 About Me 🤸‍♂️ <image src="https://avatars.githubusercontent.com/naakaamura" align="right" width="160px" height="160px">
 
-## 📒 Overview 📒
+Currently a high school student, just an ordinary teenager and 14 years old
   
-<b>High school student, 15. Fair experience with C#, .NET and XNA/FNA. Minimal experience with C and C++.<b/> 
+I have experience with C# and enjoy modding Terraria, that's pretty much it. Ocasionally though I'll be working on a few other random projects every once in a while.
 
-## 💻 Workspace 💻
-
-### Languages / Frameworks
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-
-### IDEs / Text Editors
-
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-
-### OS
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  
 ## 💬 Contact 💬
   
 <b> 
@@ -29,3 +13,8 @@
   Discord: @naka#1282
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="@vnaka#1282" align="right" height="20px">
 <b/>
+  
+## 💀 Stats 💀
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naakaamura&title_color=adbac7&text_color=adbac7&bg_color=22272e&icon_color=adbac7" width="45%" align="left">  
+<img src="https://github-readme-stats.vercel.app/api?username=naakaamura&show_icons=true&title_color=adbac7&text_color=adbac7&bg_color=22272e&icon_color=adbac7" width="45%" align="right">
